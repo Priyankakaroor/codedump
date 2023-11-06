@@ -1,2 +1,2 @@
-# prodevan-inetrnship
+# prodevan-internship
 .A simple demo file
